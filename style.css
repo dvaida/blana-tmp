@@ -491,7 +491,7 @@ input {
 }
 
 .bg-dark {
-  background: #999999 none repeat scroll 0 0;
+  background: #BBB none repeat scroll 0 0;
 }
 
 .btn-theme {
@@ -804,7 +804,7 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 }
 
 .site-heading h2 strong {
-  color: #FF4452;
+  color: #FF4440;
   font-weight: 700;
 }
 
@@ -827,7 +827,7 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 }
 
 .site-heading h2 span {
-  color: #FF4452;
+  color: #FF4440;
 }
 
 .site-heading p {
@@ -1578,7 +1578,7 @@ body,
 }
 
 .banner-area .double-items .form-info h3 span {
-  color: #FF4452;
+  color: #FF4440;
   font-weight: 700;
   display: block;
 }
@@ -1590,7 +1590,7 @@ body,
 }
 
 .banner-area .double-items .form-info button {
-    background: #FF4452;
+    background: #FF4440;
     border: none;
     color: #ffffff;
     padding: 10px 35px;
@@ -2275,7 +2275,7 @@ body,
     content: "\e64c";
     font-family: 'themify';
     font-weight: 500;
-    color: #FF4452;
+    color: #FF4440;
 }
 
 .work-pro-area .work-pro-items .info h3 {
@@ -2336,7 +2336,7 @@ body,
 
 .about-area .about-content .left-info h4 {
   text-transform: uppercase;
-  color: #FF4452;
+  color: #FF4440;
   font-weight: 600;
   margin-bottom: 25px;
   position: relative;
@@ -2402,7 +2402,7 @@ body,
   line-height: 1;
   font-weight: 600;
   margin-bottom: 15px;
-  color: #FF4452;
+  color: #FF4440;
   position: relative;
   z-index: 1;
   display: inline-block;
@@ -2517,7 +2517,7 @@ body,
     content: "\f058";
     font-family: "Font Awesome 5 Free";
     font-weight: 600;
-    color: #FF4452;
+    color: #FF4440;
 }
 
 .about-area.inc-thumb ul li:last-child {
@@ -2611,7 +2611,7 @@ body,
   width: 100px;
   line-height: 100px;
   text-align: center;
-  background: #FF4452;
+  background: #FF4440;
   border-radius: 50%;
   margin-bottom: 35px;
   position: relative;
@@ -2632,7 +2632,7 @@ body,
 }
 
 .services-area.icon-multi-color .services-items .item .icon i {
-  color: #FF4452;
+  color: #FF4440;
 }
 
 .services-area .services-items .item .icon::after {
@@ -2659,7 +2659,7 @@ body,
 }
 
 .services-area .services-items .item:hover .icon i {
-  color: #FF4452;
+  color: #FF4440;
 }
 
 .services-area .services-items .item .icon span {
@@ -2669,7 +2669,7 @@ body,
   bottom: 0;
   height: 40px;
   width: 40px;
-  background: #FF4452;
+  background: #FF4440;
   border-radius: 50%;
   display: inline-block;
   line-height: 40px;
@@ -2682,7 +2682,7 @@ body,
   display: inline-block;
   font-size: 50px;
   margin-bottom: 30px;
-  color: #FF4452;
+  color: #FF4440;
 }
 
 .services-area .services-items .item h4 {
@@ -2706,7 +2706,7 @@ body,
   font-weight: 600;
   position: relative;
   z-index: 1;
-  color: #FF4452;
+  color: #FF4440;
   display: inline-block;
 }
 
@@ -2799,8 +2799,8 @@ body,
 }
 
 .services-area.icon-multi-color .services-items .item:hover > a {
-  background: #FF4452;
-  border-color: #FF4452;
+  background: #FF4440;
+  border-color: #FF4440;
   color: #ffffff;
 }
 
@@ -2818,7 +2818,7 @@ body,
 .services-area .services-carousel .owl-nav .owl-next,
 .services-area .services-carousel-4-col .owl-nav .owl-next {
   background: transparent none repeat scroll 0 0;
-  color: #FF4452;
+  color: #FF4440;
   font-size: 30px;
   height: 40px;
   left: -50px;
@@ -2945,7 +2945,7 @@ body,
 }
 
 .team-area .team-items .item .info span {
-  color: #FF4452;
+  color: #FF4440;
   display: block;
   margin-bottom: 15px;
 }
@@ -3194,7 +3194,7 @@ body,
 .testimonial-items .info span {
   display: inline-block;
   margin-bottom: 15px;
-  color: #FF4452;
+  color: #FF4440;
 }
 
 .testimonial-items .info p {
@@ -3309,7 +3309,7 @@ body,
 }
 
 .process-area .info .nav-pills li.active a {
-  color: #FF4452;
+  color: #FF4440;
 }
 
 .process-area .info .nav-pills a:hover, 
@@ -3344,7 +3344,7 @@ body,
   content: "";
   height: 3px;
   width: 100%;
-  background: #FF4452;
+  background: #FF4440;
 }
 
 .process-area.bg-dark .info .nav-pills li.active a::after {
@@ -3377,7 +3377,7 @@ body,
   content: "\e64c";
   font-family: 'themify';
   font-weight: 500;
-  color: #FF4452;
+  color: #FF4440;
 }
 
 .process-area .info .tab-content .info li {
@@ -3421,7 +3421,7 @@ body,
     display: inline-block;
     font-size: 50px;
     margin-bottom: 30px;
-    color: #FF4452;
+    color: #FF4440;
 }
 
 .process-area .process-items .single-item h4 {
@@ -3522,7 +3522,7 @@ body,
 }
 
 .pricing-area .pricing-item.active li.pricing-header {
-  background: #FF4452;
+  background: #FF4440;
 }
 
 .pricing-area .pricing-item.active li.pricing-header i {
@@ -3598,7 +3598,7 @@ body,
   z-index: 1;
   text-align: center;
   margin-bottom: 29px;
-  color: #FF4452;
+  color: #FF4440;
 }
 
 .pricing-area .pricing-item .pricing-header i::after {
@@ -3626,7 +3626,7 @@ body,
   position: relative;
   z-index: 1;
   margin-bottom: 30px;
-  color: #FF4452;
+  color: #FF4440;
 }
 
 .fun-fact-items i::after {
@@ -3817,7 +3817,7 @@ body,
 
 .contact-area .contact-items .faq .heading h4 {
   text-transform: uppercase;
-  color: #FF4452;
+  color: #FF4440;
   font-weight: 600;
   margin-bottom: 25px;
   position: relative;
