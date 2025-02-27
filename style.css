@@ -74,7 +74,7 @@ html, body, .wrapper {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #002359;
+  color: #222222;
   font-weight: normal;
   line-height: 1.2;
   font-family: 'Poppins', sans-serif;
@@ -137,7 +137,7 @@ pre {
   padding: 9.5px;
   word-wrap: break-word;
   word-break: break-all;
-  color: #002359;
+  color: #222222;
   border: 1px solid #ededed;
   border-radius: inherit;
   background-color: #f9f9f9;
@@ -159,11 +159,11 @@ ul {
 a, a:active, a:focus, a:hover {
   outline: none;
   text-decoration: none;
-  color: #002359;
+  color: #222222;
 }
 
 a:hover {
-  color: #002359;
+  color: #222222;
 }
 
 a {
@@ -271,7 +271,7 @@ input {
 }
 
 .shadow.dark::after {
-  background: #002359 none repeat scroll 0 0;
+  background: #222222 none repeat scroll 0 0;
   content: "";
   height: 100%;
   left: 0;
@@ -283,7 +283,7 @@ input {
 }
 
 .shadow.dark-hard::after {
-  background: #002359 none repeat scroll 0 0;
+  background: #222222 none repeat scroll 0 0;
   content: "";
   height: 100%;
   left: 0;
@@ -418,26 +418,26 @@ input {
 .btn.btn-sm-pro.btn-border-light:hover, 
  .btn.btn-sm-pro.btn-border-light:focus {
   background-color: #ffffff;
-  color: #002359;
+  color: #222222;
   border: 2px solid #ffffff;
 }
 
 .btn-dark {
-  background-color: #002359;
+  background-color: #222222;
   color: #ffffff;
-  border: 2px solid #002359;
+  border: 2px solid #222222;
 }
 
 .btn-dark.border {
   background-color: transparent;
-  color: #002359;
-  border: 2px solid #002359;
+  color: #222222;
+  border: 2px solid #222222;
 }
 
 .btn-dark.border:hover {
-  background-color: #002359;
+  background-color: #222222;
   color: #ffffff !important;
-  border: 2px solid #002359;
+  border: 2px solid #222222;
 }
 
 .btn-gray.border {
@@ -455,7 +455,7 @@ input {
 .btn.btn-light {
   background: #ffffff none repeat scroll 0 0;
   border: 2px solid #ffffff;
-  color: #002359;
+  color: #222222;
 }
 
 .btn.btn-light:hover, 
@@ -481,17 +481,17 @@ input {
 .btn.btn-light.border:hover {
   background: #ffffff none repeat scroll 0 0 !important;
   border: 2px solid #ffffff !important;
-  color: #002359 !important;
+  color: #222222 !important;
 }
 
 .btn-dark:hover, 
  .btn-dark:focus {
-  color: #002359 !important;
+  color: #222222 !important;
   background: transparent;
 }
 
 .bg-dark {
-  background: #002359 none repeat scroll 0 0;
+  background: #222222 none repeat scroll 0 0;
 }
 
 .btn-theme {
@@ -788,7 +788,7 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 }
 
 .site-heading h2::before {
-  background: #002359 none repeat scroll 0 0;
+  background: #222222 none repeat scroll 0 0;
   bottom: 0;
   content: "";
   height: 2px;
@@ -2317,7 +2317,7 @@ body,
   content: "";
   height: 100%;
   width: 50%;
-  background: #002359;
+  background: #222222;
   z-index: -1;
 }
 
@@ -2425,7 +2425,7 @@ body,
 .about-area .fun-facts .fun-fact .medium {
   font-weight: 500;
   text-transform: capitalize;
-  color: #002359;
+  color: #222222;
   letter-spacing: 0.6px;
   display: block;
 }
@@ -3544,7 +3544,7 @@ body,
   margin-bottom: 30px;
   padding-bottom: 30px;
   text-align: center;
-  background: #002359;
+  background: #222222;
   padding: 30px;
 }
 
@@ -4128,7 +4128,7 @@ body,
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
-  color: #002359;
+  color: #222222;
   font-weight: 600;
   height: 50px;
   line-height: 50px;
@@ -4199,7 +4199,7 @@ body,
 .blog-area .sidebar button[type="submit"] {
   background: #e7e7e7 none repeat scroll 0 0;
   border: medium none;
-  color: #002359;
+  color: #222222;
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   letter-spacing: 1px;
@@ -4327,7 +4327,7 @@ body,
 
 .sidebar-item.recent-post li a span {
   display: inline-block;
-  color: #002359;
+  color: #222222;
 }
 
 .sidebar-item.recent-post li span {
@@ -4382,7 +4382,7 @@ body,
 }
 
 .sidebar-item.recent-post li .info a {
-  color: #002359;
+  color: #222222;
   text-decoration: inherit;
   font-size: 15px;
 }
@@ -4442,7 +4442,7 @@ body,
 }
 
 .sidebar-item.social-sidebar li a {
-  background: #002359 none repeat scroll 0 0;
+  background: #222222 none repeat scroll 0 0;
   border: medium none;
   color: #ffffff;
   display: inline-block;
@@ -4577,7 +4577,7 @@ body,
 .blog-area .blog-items .info .post-tags span {
   margin-right: 5px;
   font-weight: 700;
-  color: #002359;
+  color: #222222;
 }
 
 .blog-area .blog-items .info .post-tags a {
@@ -4786,7 +4786,7 @@ body,
 
 .comments-info a {
   border: 1px solid #e7e7e7;
-  color: #002359;
+  color: #222222;
   display: inline-block;
   font-size: 12px;
   margin-top: 5px;
