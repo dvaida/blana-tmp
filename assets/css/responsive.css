@@ -408,7 +408,7 @@
 
   .banner-area.bottom-shape.shape-bottom-30 .shape {
     bottom: 0;
-}
+  }
 
 
 
@@ -449,7 +449,7 @@
   }
 
   .banner-area .double-items .thumb img {
-    max-width: 80%;
+    max-width: 95%;
     margin: auto;
   }
 
